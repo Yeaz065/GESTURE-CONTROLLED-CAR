@@ -19,3 +19,5 @@ This project aims to find out if hand gestures can reasonably be used to control
 
 ### Car including receiver
 ![image](https://github.com/Yeaz065/GESTURE-CONTROLLED-CAR/assets/68266229/5f6478e6-44ce-4d1e-9dbc-115bfb19c8cb)
+
+Project Report: [Control Project Report .pdf](https://github.com/user-attachments/files/15525553/Control.Project.Report.pdf)
